@@ -2,4 +2,4 @@
 Primer repo creado por github
 
 ## Description
-Este es un repositio nuevo
+Este es un repositio nuevo mejorado
